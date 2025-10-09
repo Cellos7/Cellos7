@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Cellos7</h1>
+<h1 align="center">👋 Olá, eu sou o Eduardo Vasconcellos</h1>
 <h3 align="center">💻 Desenvolvedor em formação | Focado em Back-End, Web e tecnologias modernas</h3>
 
 ---
@@ -9,7 +9,6 @@
 💡 Interesse principal em **desenvolvimento web**, **arquitetura back-end** e **integração de sistemas**  
 🧱 Experiência prática com **Java**, **Spring Boot**, **PostgreSQL** e **Docker**  
 ⚙️ Buscando aprimorar habilidades em **Angular**, **boas práticas de código** e **versionamento com Git**  
-📘 Uso o **Obsidian** para organização de estudos e projetos técnicos  
 🚀 Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em soluções de impacto
 
 ---
@@ -52,10 +51,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)]()
-[![Obsidian Vault](https://img.shields.io/badge/Obsidian%20Notes-483699?style=for-the-badge&logo=obsidian&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardocellos)
 
 </div>
 
