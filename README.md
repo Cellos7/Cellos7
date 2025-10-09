@@ -33,17 +33,6 @@
 
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Cellos7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cellos7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cellos7&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Cellos7&theme=radical)
-
-</div>
 
 ---
 
@@ -54,22 +43,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardocellos)
 
 </div>
-
----
-
-### 🐍 Atividade no GitHub
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Cellos7/Cellos7/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-### 💬 Frase que me define
-
-> “Evoluir sempre. Criar com propósito.”
 
 ---
 
