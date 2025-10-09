@@ -1,15 +1,16 @@
 <h1 align="center">👋 Olá, eu sou o Cellos7</h1>
-<h3 align="center">💻 Desenvolvedor em formação | Focado em Web, Back-End e novas tecnologias</h3>
+<h3 align="center">💻 Desenvolvedor em formação | Focado em Back-End, Web e tecnologias modernas</h3>
 
 ---
 
 ### 🧠 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar (EAD)**  
-🚀 Focado em **desenvolvimento web e back-end** com **Java, Spring Boot e PostgreSQL**  
-🐧 Apaixonado por **aprender novas tecnologias** e **melhorar a cada projeto**  
-📘 Atualmente estudando: **Spring Boot**, **Angular**, **Docker** e **boas práticas de código**  
-🧩 Também gosto de **organizar estudos e projetos com o Obsidian**
+🎓 Estudante presencial de **Análise e Desenvolvimento de Sistemas** na **Unicesumar**  
+💡 Interesse principal em **desenvolvimento web**, **arquitetura back-end** e **integração de sistemas**  
+🧱 Experiência prática com **Java**, **Spring Boot**, **PostgreSQL** e **Docker**  
+⚙️ Buscando aprimorar habilidades em **Angular**, **boas práticas de código** e **versionamento com Git**  
+📘 Uso o **Obsidian** para organização de estudos e projetos técnicos  
+🚀 Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em soluções de impacto
 
 ---
 
@@ -26,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Magma](https://img.shields.io/badge/Magma-F24E1E?style=for-the-badge&logoColor=white)
@@ -59,11 +61,11 @@
 
 ---
 
-### 🐍 Atividade
+### 🐍 Atividade no GitHub
 
 <div align="center">
 
-![Snake animation](https://github.com/Cellos7/Cellos7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Cellos7/Cellos7/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -71,7 +73,7 @@
 
 ### 💬 Frase que me define
 
-> “Aprender é o que me move. Criar é o que me realiza.”
+> “Evoluir sempre. Criar com propósito.”
 
 ---
 
